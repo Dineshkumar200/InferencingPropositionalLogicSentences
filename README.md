@@ -1,6 +1,5 @@
-### EX NO:07
-### DATE:23.6.22
-# <p align="center">Inferencing Propositional Logic Sentences  </p>
+
+# Inferencing Propositional Logic Sentences  
 
 
 ## AIM
@@ -32,6 +31,10 @@ Using propositional Logic defines the possibility of agent's next move.
 Using wumpus_kb.ask_if_true() to get the result based on TRUE value.
 
 ## PROGRAM
+```
+Developed By : Dineshkumar V
+Reg.no : 212220230013
+```
 ```python
 from utils import *
 from logic import *
